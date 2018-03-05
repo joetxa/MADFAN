@@ -34,7 +34,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'Dragon+Ball+vs+Naruto.+Anime+fight.(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/Dragon+Ball+vs+Naruto.+Anime+fight.(720p).mp4',
     title: 'Dragon Ball vs Naruto. Anime fight',
     duration: '8:39',
     author: 'Alberto Barberá',
@@ -50,7 +50,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'Naruto+Shippuden_+Dance+of+War+-+Short+Film+(Turn+On+Subtitles)(1080p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/Naruto+Shippuden_+Dance+of+War+-+Short+Film+(Turn+On+Subtitles)(1080p).mp4',
     title: 'Naruto Shippuden: Dance of War - Short Film',
     duration: '7:48',
     author: 'RivenX3i',
@@ -66,7 +66,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'NARUTO+-+New+Movie+2018+-+Full+Trailer+AMAZING!!(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/NARUTO+-+New+Movie+2018+-+Full+Trailer+AMAZING!!(720p).mp4',
     title: 'NARUTO - New Movie 2018',
     duration: '12:50',
     author: 'RivenX3i',
@@ -82,7 +82,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'Naruto+The+Movie!+(Official+Fake+Trailer)(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/Naruto+The+Movie!+(Official+Fake+Trailer)(720p).mp4',
     title: 'Naruto The Movie! (Official Fake Trailer)',
     duration: '3:15',
     author: 'nigahiga',
@@ -98,7 +98,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'Red+Hood_+The+Fallen+-+DC+Comic+Batman+Fan+Film(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/Red+Hood_+The+Fallen+-+DC+Comic+Batman+Fan+Film(720p).mp4',
     title: 'Red Hood: The Fallen - DC Comic Batman Fan Film',
     duration: '23:16',
     author: 'Toby Bajrovic',
@@ -114,7 +114,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'JUSTICE+LEAGUE_+Trinity+Force+_+DC+FAN+FILM+_(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/JUSTICE+LEAGUE_+Trinity+Force+_+DC+FAN+FILM+_(720p).mp4',
     title: 'JUSTICE LEAGUE: Trinity Force | DC FAN FILM |',
     duration: '16:29',
     author: 'SHIELDS Productions',
@@ -130,7 +130,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'The+Mad+Hatter+-+Fan+Film(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/The+Mad+Hatter+-+Fan+Film(720p).mp4',
     title: 'The Mad Hatter - Fan Film',
     duration: '6:16',
     author: 'Wolfspider Productions',
@@ -146,7 +146,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'The+Flash+Lite+(comedy+fan+film)(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/The+Flash+Lite+(comedy+fan+film)(720p).mp4',
     title: 'The Flash Lite (comedy fan film)',
     duration: '10:14',
     author: 'The Chublin Brothers',
@@ -162,7 +162,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'Clash+at+the+Cantina+(2014)+-+Star+Wars+Fan+Film(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/Clash+at+the+Cantina+(2014)+-+Star+Wars+Fan+Film(720p).mp4',
     title: 'Clash at the Cantina (2014) - Star Wars Fan Film',
     duration: '4:45',
     author: 'Corey Vidal',
@@ -178,7 +178,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'THE+74th+HUNGER+GAMES+(SHORT+COMEDY+FAN+FILM)(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/THE+74th+HUNGER+GAMES+(SHORT+COMEDY+FAN+FILM)(720p).mp4',
     title: 'THE 74th HUNGER GAMES (SHORT COMEDY FAN FILM)',
     duration: '4:24',
     author: 'ChickenFeetFilms',
@@ -194,7 +194,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'VICTIM+-+A+Short+Slender+Man+Horror+Film(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/VICTIM+-+A+Short+Slender+Man+Horror+Film(720p).mp4',
     title: 'VICTIM - A Short Slender Man Horror Film',
     duration: '14:30',
     author: 'Eddie Adamson',
@@ -210,7 +210,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'cc.mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/DONT+MOVE+-+A+Short+Horror+Film+(2017)(720p).mp4',
     title: 'FALLOUT - Apocalyptic Thriller Short Film',
     duration: '7:27',
     author: 'AndrewProductionsTV',
@@ -226,7 +226,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'Dragon+Ball+Z_+Light+of+Hope+-+Pilot(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/Dragon+Ball+Z_+Light+of+Hope+-+Pilot(720p).mp4',
     title: 'Dragon Ball Z: Light of Hope - Pilot',
     duration: '13:14',
     author: 'RobotUnderdog2',
@@ -242,7 +242,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'Attack+on+Titan+-+LEVI+vs+BEAST+TITAN+-+Fan+made+animation+-+Shingeki+no+kyojin+manga+chapter+81(480p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/Attack+on+Titan+-+LEVI+vs+BEAST+TITAN+-+Fan+made+animation+-+Shingeki+no+kyojin+manga+chapter+81(480p).mp4',
     title: 'Attack on Titan - LEVI vs BEAST TITAN - Fan made animation',
     duration: '1:14',
     author: 'S.L.H Animation',
@@ -258,7 +258,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'Chinese+teenager+created+awesome+fight+scene+animation(536p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/Chinese+teenager+created+awesome+fight+scene+animation(536p).mp4',
     title: 'Personal Animated Short 【Heat vs Repulsion】自主制作アニメ',
     duration: '3:50',
     author: 'magnil',
@@ -274,7 +274,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'SPAWN_+THE+RECALL+-+FAN+FILM(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/SPAWN_+THE+RECALL+-+FAN+FILM(720p).mp4',
     title: 'SPAWN: THE RECALL - FAN FILM',
     duration: '7:56',
     author: 'Irissee',
@@ -290,7 +290,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: '[Rebeler]+Madara+VS+Hashirama+-+Cosplay+Movie(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/%5bRebeler%5d+Madara+VS+Hashirama+-+Cosplay+Movie(720p).mp4',
     title: '[Rebeler] Madara VS Hashirama - Cosplay Movie',
     duration: '8:06',
     author: 'Rebeler Team',

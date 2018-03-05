@@ -68,7 +68,7 @@ for (let i = 0; i < btn.length; i++) {
       if (compar.textContent === data.films[a].title) {
         modalTitre.textContent = data.films[a].title;
         video.innerHTML = '<video id="my_video" width="85%" autoplay>' +
-          '<source class="sourceVideo" src="video/' + data.films[a].src + '" type="video/mp4">' +
+          '<source class="sourceVideo" src="'+ data.films[a].src +'" type="video/mp4">' +
           '</video>' +
           '<div class="video_controls_bar_color" id="video_controls_bar">' +
           '<div class="element1">' +
