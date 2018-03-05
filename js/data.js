@@ -18,7 +18,7 @@ var data = {
     picto: "img/like.png",
     comment:"laissez votre commentaire"
   }, {
-    src: 'Naruto+Live+Action+(avec+Florian+Nguyen+et+Aziatomik)(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/Naruto+Live+Action+(avec+Florian+Nguyen+et+Aziatomik)(720p).mp4',
     title: 'Naruto Live Action (avec Florian Nguyen et Aziatomik)',
     duration: '1:47',
     author: 'Brice Duan',
