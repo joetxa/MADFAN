@@ -2,7 +2,7 @@ var data = {
   categories: ['Tous', 'Action', 'Animation', 'Comedy', 'Horror-Thriller'],
   max_rating: 5,
   films: [{
-    src: 'TIE+Fighter+-+short+film(720p).mp4',
+    src: 'https://7h3wh1t3r4bb17.pw/hetic-si3/data/TIE+Fighter+-+short+film(720p).mp4',
     title: 'TIE Fighter - short film',
     duration: '7:27',
     author: 'OtaKing77077',
